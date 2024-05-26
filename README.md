@@ -38,8 +38,8 @@ Welcome to the Simple Dice Game app! This project is a straightforward dice roll
 
 ## 🖼️ Screenshots
 
-![Home Screen](path/to/screenshot1.png)
-![Dice Roll](path/to/screenshot2.png)
+![dice_game](https://github.com/SohailAhmed145/Simple_Dice_game/assets/111264528/c6948a29-9821-4134-96bc-385ea4e27f4c)
+
 
 ## 📚 Learning Resources
 
@@ -52,11 +52,3 @@ If you're interested in learning more about Kotlin and Jetpack Compose, here are
 ## 🤝 Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
-
-
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **Email**: youremail@example.com
-
----
-
-Feel free to customize this README file according to your project's specifics and personal preferences. Good luck with your app development journey!
